@@ -1,0 +1,17 @@
+1. explain LCM etc..
+2. Substitute checkbox with X
+3. checkbox + Sample Response
+4. Date on the top of submission file
+5. Save by Anubhav03L-4.8(exersise)
+6. $$\begin{aligned}w - \frac{1}{3}  &\stackrel{?}{=} \frac{4}{{15}}\\\frac{3}{5} - \frac{1}{3}  &\stackrel{?}{=} \frac{4}{{15}}\\\frac{{3 \cdot 3}}{{5 \cdot 5}} - \frac{{1 \cdot 5}}{{3 \cdot 5}}  &\stackrel{?}{=} \frac{4}{{15}}\\\frac{9}{{15}} - \frac{5}{{15}}  &\stackrel{?}{=} \frac{4}{{15}}\\\frac{{9 - 5}}{{15}}  &\stackrel{?}{=} \frac{4}{{15}}\\\frac{4}{{15}}& = \frac{4}{{15}}\end{aligned}$$
+7. Check the solution by substituting  in the given equation.
+8. Apply Multiplication property of equality in the given equation. Multiply by the reciprocal of  on both sides of the equation, since LCD is 8.
+9. Add $$1$$ both sides of the equation to isolate $$y$$. 
+
+
+
+Apply Multiplication property of equality in the given equation to isolate . Multiply by the  on both sides of the equation, since LCD is 6.
+
+Simplify each terms.
+
+Subtract  from both sides of the equation.
